@@ -123,6 +123,5 @@ requirements-dev.txt
 Los resultados son orientativos. Verifica datos, supuestos y recomendaciones con el equipo de operaciones antes de decidir compras, rutas o asignación de proveedores.
 
 
-https://github.com/user-attachments/assets/ad3bb78e-6abc-4df6-a733-1d4df5b78fc0
-
+https://github.com/user-attachments/assets/e2802ee6-beb1-4f99-a44e-695b804e0f82
 
