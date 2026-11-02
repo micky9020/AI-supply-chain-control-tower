@@ -121,3 +121,5 @@ requirements-dev.txt
 ## Uso responsable
 
 Los resultados son orientativos. Verifica datos, supuestos y recomendaciones con el equipo de operaciones antes de decidir compras, rutas o asignación de proveedores.
+
+https://github.com/user-attachments/assets/7afb62d0-0f25-404a-ad20-9f18b27b2c8e
