@@ -1,0 +1,13 @@
+order_id,supplier,sku,category,origin,destination,quantity,unit_cost_usd,inventory_units,daily_demand,lead_time_days,transit_days,days_until_due,on_time_rate,status
+ORD-1001,Pacific Freight,SKU-A101,Electronics,Shenzhen,Lima,500,23.40,95,18,18,22,-3,0.77,delayed
+ORD-1002,Andes Supply,SKU-B210,Packaging,Bogota,Lima,800,3.80,380,20,7,4,5,0.94,in_transit
+ORD-1003,OceanBridge,SKU-C310,Parts,Shanghai,Callao,320,42.50,50,9,21,20,1,0.72,in_transit
+ORD-1004,LocalHub,SKU-D405,Food,Arequipa,Lima,900,2.10,210,47,4,1,2,0.89,processing
+ORD-1005,GlobalParts,SKU-E122,Automotive,Hamburg,Lima,190,71.00,700,12,25,16,12,0.96,in_transit
+ORD-1006,TransRoute,SKU-F809,Textiles,Santiago,Lima,1200,7.80,450,22,8,9,-1,0.68,delayed
+ORD-1007,WareCo,SKU-G332,Packaging,Lima,Trujillo,650,4.30,2400,30,3,2,1,0.98,delivered
+ORD-1008,NovaTrade,SKU-H502,Electronics,Seoul,Lima,420,35.00,130,11,17,9,7,0.92,in_transit
+ORD-1009,Portline,SKU-J800,Parts,Miami,Callao,260,54.00,68,7,15,12,3,0.83,in_transit
+ORD-1010,Costa Logistics,SKU-K220,Food,Piura,Lima,880,3.50,1050,58,6,3,4,0.95,processing
+ORD-1011,OceanBridge,SKU-M011,Electronics,Guangzhou,Callao,410,39.00,52,14,23,24,-2,0.74,delayed
+ORD-1012,Andes Supply,SKU-N130,Textiles,Quito,Lima,330,12.40,500,18,11,5,10,0.91,delivered
